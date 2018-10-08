@@ -1,0 +1,772 @@
+#EXTINF:
+#EXTINF:1 Vietnamese TV
+#EXTINF:-1,onfilm
+https://saigonrtmp.tulix.tv/vchannel4/vchannel4/playlist.m3u8
+#EXTINF:-1,Vietoday TV
+https://saigonrtmp.tulix.tv/vchannel1/vchannel1/playlist.m3u8"
+#EXTINF:-1,saigontv
+https://saigonrtmp.tulix.tv/vchannel2/vchannel2/playlist.m3u8
+#EXTINF:-1,VSLTV
+https://saigonrtmp.tulix.tv/vchannel3/vchannel3/playlist.m3u8
+#EXTINF:-1,On biz
+https://saigonrtmp.tulix.tv/vchannel5/vchannel5/playlist.m3u8
+#EXTINF:-1,Echannel
+https://saigonrtmp.tulix.tv/vchannel6/vchannel6/playlist.m3u8
+#EXTINF:-1,SCTV HD
+https://saigonrtmp.tulix.tv/vchannel7/vchannel7/playlist.m3u8
+#EXTINF:-1,SCTV Phim
+https://saigonrtmp.tulix.tv/vchannel8/vchannel8/playlist.m3u8
+#EXTINF:-1,SCTV San Khau 
+https://saigonrtmp.tulix.tv/vchannel9/vchannel9/playlist.m3u8
+#EXTINF:-1,Style Tv
+https://saigonrtmp.tulix.tv/vchannel10/vchannel10/playlist.m3u8
+#EXTINF:-1,VBS TELEVISION Channel 57.6
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+#EXTINF:-1, VNBC
+http://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/chunklist_w1301626483_b1228800.m3u8
+
+#EXTINF:1 USA TV
+
+#EXTINF:-1,USA | Starz Kids & Family
+http://149.56.26.6:25461/live/figueroa/figueroa/52447.ts
+
+#EXTINF:-1,USA | AMC
+http://149.56.26.6:25461/live/figueroa/figueroa/8549.ts
+
+#EXTINF:-1,USA | Animal Planet
+http://149.56.26.6:25461/live/figueroa/figueroa/8548.ts
+
+#EXTINF:-1,USA | BBC America
+http://149.56.26.6:25461/live/figueroa/figueroa/8547.ts
+
+#EXTINF:-1,USA | Bein ES
+http://149.56.26.6:25461/live/figueroa/figueroa/8545.ts
+
+#EXTINF:-1,USA | Cartoon Network
+http://149.56.26.6:25461/live/figueroa/figueroa/8542.ts
+
+#EXTINF:-1,USA | CBS LA
+http://149.56.26.6:25461/live/figueroa/figueroa/8541.ts
+
+#EXTINF:-1,USA | CBS Sport Network
+http://149.56.26.6:25461/live/figueroa/figueroa/8540.ts
+
+#EXTINF:-1,USA | Cinemax West
+http://149.56.26.6:25461/live/figueroa/figueroa/8537.ts
+
+#EXTINF:-1,USA | CNBC
+http://149.56.26.6:25461/live/figueroa/figueroa/8536.ts
+
+#EXTINF:-1,USA | CNN
+http://149.56.26.6:25461/live/figueroa/figueroa/8535.ts
+
+#EXTINF:-1,USA | Comedy Central
+http://149.56.26.6:25461/live/figueroa/figueroa/8534.ts
+
+#EXTINF:-1,USA | Destination America
+http://149.56.26.6:25461/live/figueroa/figueroa/8531.ts
+
+#EXTINF:-1,USA | Discovery Channel
+http://149.56.26.6:25461/live/figueroa/figueroa/8530.ts
+
+#EXTINF:-1,USA | Disney Channel
+http://149.56.26.6:25461/live/figueroa/figueroa/8526.ts
+
+#EXTINF:-1,USA | Disney Jr
+http://149.56.26.6:25461/live/figueroa/figueroa/8525.ts
+
+#EXTINF:-1,USA | Disney XD
+http://149.56.26.6:25461/live/figueroa/figueroa/8524.ts
+
+#EXTINF:-1,USA | ESPN
+http://149.56.26.6:25461/live/figueroa/figueroa/8518.ts
+
+#EXTINF:-1,USA | ESPN 2
+http://149.56.26.6:25461/live/figueroa/figueroa/8517.ts
+
+#EXTINF:-1,USA | Fox LA
+http://149.56.26.6:25461/live/figueroa/figueroa/8515.ts
+
+#EXTINF:-1,USA | Freeform
+http://149.56.26.6:25461/live/figueroa/figueroa/8511.ts
+
+#EXTINF:-1,USA | Hallmark
+http://149.56.26.6:25461/live/figueroa/figueroa/8506.ts
+
+#EXTINF:-1,USA | HBO EAST
+http://149.56.26.6:25461/live/figueroa/figueroa/8504.ts
+
+#EXTINF:-1,USA | HBO WEST
+http://149.56.26.6:25461/live/figueroa/figueroa/8503.ts
+
+#EXTINF:-1,USA | HBO Comedy
+http://149.56.26.6:25461/live/figueroa/figueroa/8502.ts
+
+#EXTINF:-1,USA | HBO Signature
+http://149.56.26.6:25461/live/figueroa/figueroa/8500.ts
+
+#EXTINF:-1,USA | HGTV
+http://149.56.26.6:25461/live/figueroa/figueroa/8498.ts
+
+#EXTINF:-1,USA | IFC
+http://149.56.26.6:25461/live/figueroa/figueroa/8496.ts
+
+#EXTINF:-1,USA | Investigation Discovery
+http://149.56.26.6:25461/live/figueroa/figueroa/8495.ts
+
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,USA | MSNBC
+http://149.56.26.6:25461/live/figueroa/figueroa/8491.ts
+
+#EXTINF:-1,USA | NBCSN
+http://149.56.26.6:25461/live/figueroa/figueroa/8484.ts
+
+#EXTINF:-1,USA | NFL Network
+http://149.56.26.6:25461/live/figueroa/figueroa/8483.ts
+
+#EXTINF:-1,USA | NIckelodeon
+http://149.56.26.6:25461/live/figueroa/figueroa/8480.ts
+
+#EXTINF:-1,USA | PBS
+http://149.56.26.6:25461/live/figueroa/figueroa/8477.ts
+
+#EXTINF:-1,USA | SEC Network
+http://149.56.26.6:25461/live/figueroa/figueroa/8476.ts
+
+#EXTINF:-1,USA | Showtime 2
+http://149.56.26.6:25461/live/figueroa/figueroa/8473.ts
+
+#EXTINF:-1,USA | Paramount Network
+http://149.56.26.6:25461/live/figueroa/figueroa/8471.ts
+
+#EXTINF:-1,USA | Showtime west
+http://149.56.26.6:25461/live/figueroa/figueroa/8468.ts
+
+#EXTINF:-1,USA | Starz East
+http://149.56.26.6:25461/live/figueroa/figueroa/8469.ts
+
+#EXTINF:-1,MX | SyFy
+http://149.56.26.6:25461/live/figueroa/figueroa/8465.ts
+
+#EXTINF:-1,USA | Tbs
+http://149.56.26.6:25461/live/figueroa/figueroa/8464.ts
+
+#EXTINF:-1,Tennis Channel
+http://149.56.26.6:25461/live/figueroa/figueroa/8463.ts
+
+#EXTINF:-1,USA | The CW Network
+http://149.56.26.6:25461/live/figueroa/figueroa/8462.ts
+
+#EXTINF:-1,USA | TLC
+http://149.56.26.6:25461/live/figueroa/figueroa/8461.ts
+
+#EXTINF:-1,USA | TNT
+http://149.56.26.6:25461/live/figueroa/figueroa/8460.ts
+
+#EXTINF:-1,USA | TruTv
+http://149.56.26.6:25461/live/figueroa/figueroa/8458.ts
+
+#EXTINF:-1,USA | Yes
+http://149.56.26.6:25461/live/figueroa/figueroa/8444.ts
+
+#EXTINF:-1,USA | USA Network
+http://149.56.26.6:25461/live/figueroa/figueroa/8456.ts
+
+#EXTINF:-1,USA | VH1
+http://149.56.26.6:25461/live/figueroa/figueroa/8455.ts
+
+#EXTINF:-1,USA | Viceland
+http://149.56.26.6:25461/live/figueroa/figueroa/8454.ts
+
+#EXTINF:-1,USA | WWE
+http://149.56.26.6:25461/live/figueroa/figueroa/8452.ts
+
+#EXTINF:-1,USA | CBS New Orleans
+http://149.56.26.6:25461/live/figueroa/figueroa/57841.ts
+
+#EXTINF:-1,USA | Fox Sports Southwest
+http://149.56.26.6:25461/live/figueroa/figueroa/57838.ts
+
+#EXTINF:-1,USA | Fox Sports Southwest Plus
+http://149.56.26.6:25461/live/figueroa/figueroa/57839.ts
+
+#EXTINF:-1,USA | MAV TV
+http://149.56.26.6:25461/live/figueroa/figueroa/57834.ts
+
+#EXTINF:-1,USA | motorsport.tv
+http://149.56.26.6:25461/live/figueroa/figueroa/57837.ts
+
+#EXTINF:-1,USA | My 33TV Miami
+http://149.56.26.6:25461/live/figueroa/figueroa/57844.ts
+
+#EXTINF:-1,USA | NBC New Orleans, LA
+http://149.56.26.6:25461/live/figueroa/figueroa/57843.ts
+
+#EXTINF:-1,USA | Outside
+http://149.56.26.6:25461/live/figueroa/figueroa/57836.ts
+
+#EXTINF:-1,USA | Sportsman Channel
+http://149.56.26.6:25461/live/figueroa/figueroa/57835.ts
+
+#EXTINF:-1,USA | Telemundo Phoenix, AZ
+http://149.56.26.6:25461/live/figueroa/figueroa/57715.ts
+
+#EXTINF:-1,USA | Telemundo Salt Lake City, UT
+http://149.56.26.6:25461/live/figueroa/figueroa/57714.ts
+
+#EXTINF:-1,USA | Telemundo 	Tucson (Sierra Vista), AZ
+http://149.56.26.6:25461/live/figueroa/figueroa/57713.ts
+
+#EXTINF:-1,USA | Telemundo  San Antonio, TX
+http://149.56.26.6:25461/live/figueroa/figueroa/57712.ts
+
+#EXTINF:-1,USA | Telemundo Harlingen-Weslaco-Brownsville, TX
+http://149.56.26.6:25461/live/figueroa/figueroa/57711.ts
+
+#EXTINF:-1,USA | Telemundo Houston, TX
+http://149.56.26.6:25461/live/figueroa/figueroa/57710.ts
+
+#EXTINF:-1,USA | Showtime East
+http://149.56.26.6:25461/live/figueroa/figueroa/57702.ts
+
+#EXTINF:-1,USA | Showtime Extreame
+http://149.56.26.6:25461/live/figueroa/figueroa/57701.ts
+
+#EXTINF:-1,USA | BBC World News
+http://149.56.26.6:25461/live/figueroa/figueroa/52500.ts
+
+#EXTINF:-1,USA | Starz Encore Western
+http://149.56.26.6:25461/live/figueroa/figueroa/52474.ts
+
+#EXTINF:-1,USA | CBS Boston
+http://149.56.26.6:25461/live/figueroa/figueroa/57888.ts
+
+#EXTINF:-1,USA | CBS Miami
+http://149.56.26.6:25461/live/figueroa/figueroa/57903.ts
+
+#EXTINF:-1,USA | CBS New York
+http://149.56.26.6:25461/live/figueroa/figueroa/57905.ts
+
+#EXTINF:-1,USA | CBS San Francisco
+http://149.56.26.6:25461/live/figueroa/figueroa/57894.ts
+
+#EXTINF:-1,USA | FOX Boston
+http://149.56.26.6:25461/live/figueroa/figueroa/57887.ts
+
+#EXTINF:-1,USA | FOX Chicago
+http://149.56.26.6:25461/live/figueroa/figueroa/57891.ts
+
+#EXTINF:-1,USA | FOX Columbus, OH
+http://149.56.26.6:25461/live/figueroa/figueroa/57897.ts
+
+#EXTINF:-1,USA | FOX Miami, FL
+http://149.56.26.6:25461/live/figueroa/figueroa/57898.ts
+
+#EXTINF:-1,USA | FOX San Francisco
+http://149.56.26.6:25461/live/figueroa/figueroa/57892.ts
+
+#EXTINF:-1,USA | FOX Pittsburgh, PA
+http://149.56.26.6:25461/live/figueroa/figueroa/57896.ts
+
+#EXTINF:-1,USA | NBC Boston
+http://149.56.26.6:25461/live/figueroa/figueroa/57886.ts
+
+#EXTINF:-1,USA | NBC Chicago
+http://149.56.26.6:25461/live/figueroa/figueroa/57890.ts
+
+#EXTINF:-1,USA | NBC Los Angeles, CA
+http://149.56.26.6:25461/live/figueroa/figueroa/57899.ts
+
+#EXTINF:-1,USA | Telemundo Boston
+http://149.56.26.6:25461/live/figueroa/figueroa/57889.ts
+
+#EXTINF:-1,USA | Telemundo San Francisco
+http://149.56.26.6:25461/live/figueroa/figueroa/57893.ts
+
+#EXTINF:-1,USA | World Fishing Network
+http://149.56.26.6:25461/live/figueroa/figueroa/57909.ts
+
+#EXTINF:-1,USA | Fox Sports CAROLINAS
+http://149.56.26.6:25461/live/figueroa/figueroa/57923.ts
+
+#EXTINF:-1,USA | Fox Sports INDIANA
+http://149.56.26.6:25461/live/figueroa/figueroa/57921.ts
+
+#EXTINF:-1,USA | Fox Sports North
+http://149.56.26.6:25461/live/figueroa/figueroa/57912.ts
+
+#EXTINF:-1,USA | Fox Sports OHIO
+http://149.56.26.6:25461/live/figueroa/figueroa/57930.ts
+
+#EXTINF:-1,USA | Fox Sports Southeast
+http://149.56.26.6:25461/live/figueroa/figueroa/57914.ts
+
+#EXTINF:-1,USA | Fox Sports SUN
+http://149.56.26.6:25461/live/figueroa/figueroa/57932.ts
+
+#EXTINF:-1,USA | Fox Sportstime OHIO
+http://149.56.26.6:25461/live/figueroa/figueroa/57931.ts
+
+#EXTINF:-1,USA | Fox Sports Wisconsin
+http://149.56.26.6:25461/live/figueroa/figueroa/57918.ts
+
+#EXTINF:-1,USA | Fox Sports NEW ORLEANS
+http://149.56.26.6:25461/live/figueroa/figueroa/57915.ts
+
+#EXTINF:-1,USA | Fox Sports PrimeTicket
+http://149.56.26.6:25461/live/figueroa/figueroa/57933.ts
+
+#EXTINF:-1,USA | MSG 2
+http://149.56.26.6:25461/live/figueroa/figueroa/57935.ts
+
+#EXTINF:-1,USA | MSG 2 PLUS
+http://149.56.26.6:25461/live/figueroa/figueroa/57934.ts
+
+#EXTINF:-1,USA | MSG PLUS
+http://149.56.26.6:25461/live/figueroa/figueroa/57936.ts
+
+#EXTINF:-1,USA | NBCSN BOSTON
+http://149.56.26.6:25461/live/figueroa/figueroa/57924.ts
+
+#EXTINF:-1,USA | NBCSN CALIFORNIA
+http://149.56.26.6:25461/live/figueroa/figueroa/57928.ts
+
+#EXTINF:-1,USA | NBCSN CHICAGO
+http://149.56.26.6:25461/live/figueroa/figueroa/57929.ts
+
+#EXTINF:-1,USA | NBCSN CHICAGO PLUS
+http://149.56.26.6:25461/live/figueroa/figueroa/57922.ts
+
+#EXTINF:-1,USA | NBCSN NORTWEST
+http://149.56.26.6:25461/live/figueroa/figueroa/57927.ts
+
+#EXTINF:-1,USA | NBCSN Philadelphia
+http://149.56.26.6:25461/live/figueroa/figueroa/57920.ts
+
+#EXTINF:-1,USA | NBCSN Philadelphia PLUS
+http://149.56.26.6:25461/live/figueroa/figueroa/57919.ts
+
+#EXTINF:-1,USA | NBCSN Washington
+http://149.56.26.6:25461/live/figueroa/figueroa/57911.ts
+
+#EXTINF:-1,USA | NES BOSTON
+http://149.56.26.6:25461/live/figueroa/figueroa/57926.ts
+
+#EXTINF:-1,USA | NESN PLUS
+http://149.56.26.6:25461/live/figueroa/figueroa/57925.ts
+
+#EXTINF:-1,USA | SNY
+http://149.56.26.6:25461/live/figueroa/figueroa/57938.ts
+
+#EXTINF:-1,USA | Telemundo Dallas-Fort Worth, TX
+http://149.56.26.6:25461/live/figueroa/figueroa/57910.ts
+
+#EXTINF:-1,USA | Telemundo Denver
+http://149.56.26.6:25461/live/figueroa/figueroa/57939.ts
+
+#EXTINF:-1,USA | Telemundo Fresno-Visalia, CA
+http://149.56.26.6:25461/live/figueroa/figueroa/57940.ts
+
+#EXTINF:-1,USA | Telemundo Philadelphia, PA
+http://149.56.26.6:25461/live/figueroa/figueroa/57941.ts
+
+#EXTINF:-1,USA | CBS Tampa-St. Pete, FL
+http://149.56.26.6:25461/live/figueroa/figueroa/58463.ts
+
+#EXTINF:-1,USA | Fox Kansas City, MO
+http://149.56.26.6:25461/live/figueroa/figueroa/58495.ts
+
+#EXTINF:-1,USA | Fox Philadelphia, PA
+http://149.56.26.6:25461/live/figueroa/figueroa/58492.ts
+
+#EXTINF:-1,USA | CBS Kansas City
+http://149.56.26.6:25461/live/figueroa/figueroa/58494.ts
+
+#EXTINF:-1,USA | NBC San Francisco
+http://149.56.26.6:25461/live/figueroa/figueroa/58459.ts
+
+#EXTINF:-1,USA | NBCSN  Bay Area Plus
+http://149.56.26.6:25461/live/figueroa/figueroa/58460.ts
+
+#EXTINF:-1,USA | NBCSN CALIFORNIA PLUS 2
+http://149.56.26.6:25461/live/figueroa/figueroa/58458.ts
+
+#EXTINF:-1,USA | The CW Chicago, IL
+http://149.56.26.6:25461/live/figueroa/figueroa/58465.ts
+
+#EXTINF:-1,USA | Baby TV
+http://149.56.26.6:25461/live/figueroa/figueroa/58563.ts
+
+#EXTINF:-1,USA | BEIN SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58585.ts
+
+#EXTINF:-1,USA | BRAVO
+http://149.56.26.6:25461/live/figueroa/figueroa/58576.ts
+
+#EXTINF:-1,USA | BTN SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58562.ts
+
+#EXTINF:-1,USA | CBS SPORT SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58588.ts
+
+#EXTINF:-1,USA | Cine Sony SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58547.ts
+
+#EXTINF:-1,USA | Food Network
+http://149.56.26.6:25461/live/figueroa/figueroa/58559.ts
+
+#EXTINF:-1,USA | Fox Business
+http://149.56.26.6:25461/live/figueroa/figueroa/58548.ts
+
+#EXTINF:-1,USA | Fox News HD
+http://149.56.26.6:25461/live/figueroa/figueroa/58549.ts
+
+#EXTINF:-1,USA | FUSE
+http://149.56.26.6:25461/live/figueroa/figueroa/58555.ts
+
+#EXTINF:-1,USA | FUSION SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58579.ts
+
+#EXTINF:-1,USA | FX
+http://149.56.26.6:25461/live/figueroa/figueroa/58554.ts
+
+#EXTINF:-1,USA | FXM
+http://149.56.26.6:25461/live/figueroa/figueroa/58553.ts
+
+#EXTINF:-1,USA | FXX
+http://149.56.26.6:25461/live/figueroa/figueroa/58552.ts
+
+#EXTINF:-1,USA | GALA SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58529.ts
+
+#EXTINF:-1,USA | Hallmark Movies and Mysterie
+http://149.56.26.6:25461/live/figueroa/figueroa/58545.ts
+
+#EXTINF:-1,USA | FOX Fargo Valley City
+http://149.56.26.6:25461/live/figueroa/figueroa/58541.ts
+
+#EXTINF:-1,USA | NATGEO WILD
+http://149.56.26.6:25461/live/figueroa/figueroa/58573.ts
+
+#EXTINF:-1,USA | NBA TV SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58586.ts
+
+#EXTINF:-1,USA | NBC SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58581.ts
+
+#EXTINF:-1,USA | NBCSN SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58589.ts
+
+#EXTINF:-1,USA | NBCSN WASHINGTON PLUS SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58592.ts
+
+#EXTINF:-1,USA | NBC Fargo Valley City
+http://149.56.26.6:25461/live/figueroa/figueroa/58593.ts
+
+#EXTINF:-1,USA | New England Sports Network PLUS SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58564.ts
+
+#EXTINF:-1,USA | New England Sports Network SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58565.ts
+
+#EXTINF:-1,USA | FOX Salt Lake City
+http://149.56.26.6:25461/live/figueroa/figueroa/58587.ts
+
+#EXTINF:-1,USA | NFL REDZONE
+http://149.56.26.6:25461/live/figueroa/figueroa/58557.ts
+
+#EXTINF:-1,USA | Olympic Channel
+http://149.56.26.6:25461/live/figueroa/figueroa/58561.ts
+
+#EXTINF:-1,USA | Outdoor Channel
+http://149.56.26.6:25461/live/figueroa/figueroa/58556.ts
+
+#EXTINF:-1,MX | El Gourmet
+http://149.56.26.6:25461/live/figueroa/figueroa/58540.ts
+
+#EXTINF:-1,USA | SYFY SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58551.ts
+
+#EXTINF:-1,USA | Telexitos SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58568.ts
+
+#EXTINF:-1,USA | Travel Channel.
+http://149.56.26.6:25461/live/figueroa/figueroa/58560.ts
+
+#EXTINF:-1,USA | UNIMAS SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58528.ts
+
+#EXTINF:-1,USA | NBC Salt Lake City
+http://149.56.26.6:25461/live/figueroa/figueroa/58550.ts
+
+#EXTINF:-1,USA | UNIVISION SD
+http://149.56.26.6:25461/live/figueroa/figueroa/58527.ts
+
+#EXTINF:-1,USA | Fox Buffalo NY.
+http://149.56.26.6:25461/live/figueroa/figueroa/61857.ts
+
+#EXTINF:-1,USA | Fox College Sports Pacific
+http://149.56.26.6:25461/live/figueroa/figueroa/61872.ts
+
+#EXTINF:-1,USA | CBS Fargo Valley City
+http://149.56.26.6:25461/live/figueroa/figueroa/61875.ts
+
+#EXTINF:-1,USA | FOX Indianapolis
+http://149.56.26.6:25461/live/figueroa/figueroa/61847.ts
+
+#EXTINF:-1,USA | Fox New York
+http://149.56.26.6:25461/live/figueroa/figueroa/61867.ts
+
+#EXTINF:-1,USA | Telemundo Atlanta
+http://149.56.26.6:25461/live/figueroa/figueroa/61852.ts
+
+#EXTINF:-1,USA | Fox Sports Wisconsin PLUS
+http://149.56.26.6:25461/live/figueroa/figueroa/61864.ts
+
+#EXTINF:-1,USA | MSG Networks
+http://149.56.26.6:25461/live/figueroa/figueroa/61866.ts
+
+#EXTINF:-1,USA | NBC Buffalo NY
+http://149.56.26.6:25461/live/figueroa/figueroa/61856.ts
+
+#EXTINF:-1,USA | NBC Jacksonville FL SD
+http://149.56.26.6:25461/live/figueroa/figueroa/61862.ts
+
+#EXTINF:-1,USA | NBC Kansas City MO
+http://149.56.26.6:25461/live/figueroa/figueroa/61855.ts
+
+#EXTINF:-1,USA | NBC Philadelphia PA
+http://149.56.26.6:25461/live/figueroa/figueroa/61854.ts
+
+#EXTINF:-1,USA | NBC Seattle WA SD
+http://149.56.26.6:25461/live/figueroa/figueroa/61859.ts
+
+#EXTINF:-1,USA | NBCSN PHILLY PLUS
+http://149.56.26.6:25461/live/figueroa/figueroa/61848.ts
+
+#EXTINF:-1,USA | NBCSN PHILLY
+http://149.56.26.6:25461/live/figueroa/figueroa/61849.ts
+
+#EXTINF:-1,USA | STADIUM
+http://149.56.26.6:25461/live/figueroa/figueroa/61846.ts
+
+#EXTINF:-1,USA | Telemundo  Las Vegas NV SD
+http://149.56.26.6:25461/live/figueroa/figueroa/61836.ts
+
+#EXTINF:-1,USA | Telemundo Chicago IL SD
+http://149.56.26.6:25461/live/figueroa/figueroa/61842.ts
+
+#EXTINF:-1,USA | Telemundo Harlingen-Weslaco-Brownsville TX SD
+http://149.56.26.6:25461/live/figueroa/figueroa/61838.ts
+
+#EXTINF:-1,USA | Telemundo Los Angeles CA
+http://149.56.26.6:25461/live/figueroa/figueroa/61835.ts
+
+#EXTINF:-1,USA | Telemundo Philadelphia PA SD
+http://149.56.26.6:25461/live/figueroa/figueroa/61832.ts
+
+#EXTINF:-1,USA | XITE SD
+http://149.56.26.6:25461/live/figueroa/figueroa/61845.ts
+
+#EXTINF:-1,USA | Hallmark Drama
+http://149.56.26.6:25461/live/figueroa/figueroa/63503.ts
+
+#EXTINF:-1,USA | INSP Network
+http://149.56.26.6:25461/live/figueroa/figueroa/63504.ts
+
+#EXTINF:-1,USA | KTVU Plus
+http://149.56.26.6:25461/live/figueroa/figueroa/63507.ts
+
+#EXTINF:-1,USA | People Tv
+http://149.56.26.6:25461/live/figueroa/figueroa/63505.ts
+
+#EXTINF:-1,USA | Sony Movie Channel
+http://149.56.26.6:25461/live/figueroa/figueroa/63506.ts
+
+#EXTINF:-1,USA | The Game Show Network
+http://149.56.26.6:25461/live/figueroa/figueroa/63067.ts
+
+#EXTINF:-1,USA | Unimas Dallas
+http://149.56.26.6:25461/live/figueroa/figueroa/66422.ts
+
+#EXTINF:-1,USA | Unimas Georgia
+http://149.56.26.6:25461/live/figueroa/figueroa/66421.ts
+
+#EXTINF:-1,USA | Unimas Hawaii
+http://149.56.26.6:25461/live/figueroa/figueroa/66420.ts
+
+#EXTINF:-1,USA | Unimas Miami
+http://149.56.26.6:25461/live/figueroa/figueroa/66419.ts
+
+#EXTINF:-1,USA | Unimas New York
+http://149.56.26.6:25461/live/figueroa/figueroa/66418.ts
+
+#EXTINF:-1,USA | Unimas Washington
+http://149.56.26.6:25461/live/figueroa/figueroa/66417.ts
+
+#EXTINF:-1,USA | Univision Arizona
+http://149.56.26.6:25461/live/figueroa/figueroa/66416.ts
+
+#EXTINF:-1,USA | Univision Dallas
+http://149.56.26.6:25461/live/figueroa/figueroa/66410.ts
+
+#EXTINF:-1,USA | Univision Georgia
+http://149.56.26.6:25461/live/figueroa/figueroa/66415.ts
+
+#EXTINF:-1,USA | Univision Hawaii
+http://149.56.26.6:25461/live/figueroa/figueroa/66414.ts
+
+#EXTINF:-1,USA | Univision Miami
+http://149.56.26.6:25461/live/figueroa/figueroa/66413.ts
+
+#EXTINF:-1,USA | Univision New York
+http://149.56.26.6:25461/live/figueroa/figueroa/66412.ts
+
+#EXTINF:-1,USA | Univision Washington
+http://149.56.26.6:25461/live/figueroa/figueroa/66411.ts
+
+#EXTINF:-1,USA | Unimas Dallas HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66600.ts
+
+#EXTINF:-1,USA | Unimas Georgia HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66599.ts
+
+#EXTINF:-1,USA | Unimas Hawaii HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66598.ts
+
+#EXTINF:-1,USA | Unimas Miami HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66597.ts
+
+#EXTINF:-1,USA | Unimas New York HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66596.ts
+
+#EXTINF:-1,USA | Unimas Washington HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66595.ts
+
+#EXTINF:-1,USA | Univision Dallas HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66588.ts
+
+#EXTINF:-1,USA | Univision Georgia HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66593.ts
+
+#EXTINF:-1,USA | Univision Hawaii HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66592.ts
+
+#EXTINF:-1,USA | Univision Miami HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66591.ts
+
+#EXTINF:-1,USA | Univision New York HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66590.ts
+
+#EXTINF:-1,USA | Univision Washington HD
+http://149.56.26.6:25461/live/figueroa/figueroa/66589.ts
+
+#EXTINF:-1,USA | ABC chicago
+http://149.56.26.6:25461/live/figueroa/figueroa/66884.ts
+
+#EXTINF:-1,USA | ABC Connecticut
+http://149.56.26.6:25461/live/figueroa/figueroa/66880.ts
+
+#EXTINF:-1,USA | ABC Fresno
+http://149.56.26.6:25461/live/figueroa/figueroa/66881.ts
+
+#EXTINF:-1,USA | ABC new york
+http://149.56.26.6:25461/live/figueroa/figueroa/66885.ts
+
+#EXTINF:-1,USA | ABC Philadelphia
+http://149.56.26.6:25461/live/figueroa/figueroa/66886.ts
+
+#EXTINF:-1,USA | ABC Raleigh-Durham
+http://149.56.26.6:25461/live/figueroa/figueroa/66883.ts
+
+#EXTINF:-1,USA | ABC San Francisco
+http://149.56.26.6:25461/live/figueroa/figueroa/66887.ts
+
+#EXTINF:-1,USA | ABC Arizona
+http://149.56.26.6:25461/live/figueroa/figueroa/67543.ts
+
+#EXTINF:-1,USA | ABC Baltimore
+http://149.56.26.6:25461/live/figueroa/figueroa/67539.ts
+
+#EXTINF:-1,USA | ABC Indiana
+http://149.56.26.6:25461/live/figueroa/figueroa/67544.ts
+
+#EXTINF:-1,USA | ABC Milwaukee
+http://149.56.26.6:25461/live/figueroa/figueroa/67537.ts
+
+#EXTINF:-1,USA | ABC San Antonio
+http://149.56.26.6:25461/live/figueroa/figueroa/67540.ts
+
+#EXTINF:-1,USA | Unimas LA HD
+http://149.56.26.6:25461/live/figueroa/figueroa/68420.ts
+
+#EXTINF:-1,USA | Univision LA
+http://149.56.26.6:25461/live/figueroa/figueroa/68419.ts
+
+#EXTINF:-1,USA | Univision San Francisco SD
+http://149.56.26.6:25461/live/figueroa/figueroa/68591.ts
+
+#EXTINF:-1,USA | ABC Cleveland
+http://149.56.26.6:25461/live/figueroa/figueroa/121133.ts
+
+#EXTINF:-1,USA | ABC Kansas City
+http://149.56.26.6:25461/live/figueroa/figueroa/120982.ts
+
+#EXTINF:-1,USA | ABC Minnesota
+http://149.56.26.6:25461/live/figueroa/figueroa/121095.ts
+
+#EXTINF:-1,USA | ABC Pittsburg
+http://149.56.26.6:25461/live/figueroa/figueroa/120980.ts
+
+#EXTINF:-1,USA | ABC Sacramento
+http://149.56.26.6:25461/live/figueroa/figueroa/121252.ts
+
+#EXTINF:-1,USA | ABC Salt Lake City
+http://149.56.26.6:25461/live/figueroa/figueroa/120983.ts
+
+#EXTINF:-1,USA | ABC Tampa Bay
+http://149.56.26.6:25461/live/figueroa/figueroa/121109.ts
+
+#EXTINF:-1,USA | FOX Pittsburgh
+http://149.56.26.6:25461/live/figueroa/figueroa/121676.ts
+
+#EXTINF:-1,USA | NBC Pittsburgh, PA
+http://149.56.26.6:25461/live/figueroa/figueroa/121682.ts
+
+#EXTINF:-1,USA | MY UTAH TV
+http://149.56.26.6:25461/live/figueroa/figueroa/139333.ts
+
+#EXTINF:-1,USA | FOX Baltimore
+http://149.56.26.6:25461/live/figueroa/figueroa/139334.ts
+
+#EXTINF:-1,USA | FOX Albuquerque
+http://149.56.26.6:25461/live/figueroa/figueroa/139373.ts
+
+#EXTINF:-1,USA | CBS Phoenix
+http://149.56.26.6:25461/live/figueroa/figueroa/139371.ts
+
+#EXTINF:-1,USA | Showtime Beyond
+http://149.56.26.6:25461/live/figueroa/figueroa/139376.ts
+
+#EXTINF:-1,USA | ABC (KTBS) Shreveport, LA
+http://149.56.26.6:25461/live/figueroa/figueroa/139338.ts
+
+#EXTINF:-1,USA | ABC Oklahoma City
+http://149.56.26.6:25461/live/figueroa/figueroa/139340.ts
+
+#EXTINF:-1,USA | CBS Oklahoma City
+http://149.56.26.6:25461/live/figueroa/figueroa/139341.ts
+
+#EXTINF:-1,USA | CBS Shreveport, LA
+http://149.56.26.6:25461/live/figueroa/figueroa/139339.ts
+
+#EXTINF:-1,USA | CBS Baltimore
+http://149.56.26.6:25461/live/figueroa/figueroa/139342.ts
+
+#EXTINF:-1,USA | NBC Montgomery
+http://149.56.26.6:25461/live/figueroa/figueroa/139398.ts
+
+#EXTINF:-1,USA | CBS Montgomery
+http://149.56.26.6:25461/live/figueroa/figueroa/139400.ts
