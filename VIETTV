@@ -1,0 +1,443 @@
+#EXTM3U
+#EXTINF:-0 group-title="VTV" ,===TH VTV===
+udp://@225.1.2.249:30120
+#EXTINF:0 group-title="VTV",VTV 1 HD
+udp://@225.1.2.248:30120
+#EXTINF:0 group-title="VTV",VTV 2 HD
+udp://@225.1.2.13:30120
+#EXTINF:0 group-title="VTV",VTV 3 HD
+udp://@225.1.2.247:30120
+#EXTINF:0 group-title="VTV",VTV 4 HD
+udp://@225.1.2.20:30120
+#EXTINF:0 group-title="VTV",VTV 5 HD
+udp://@225.1.1.131:30120
+#EXTINF:0 group-title="VTV",VTV 6 HD
+udp://@225.1.2.244:30120
+#EXTINF:0 group-title="VTV",VTV 7 HD
+udp://@225.1.2.97:30120
+#EXTINF:0 group-title="VTV",VTV 8 HD
+udp://@225.1.2.142:30120
+#EXTINF:0 group-title="VTV",VTV 9 HD
+udp://@225.1.1.128:30120
+
+#EXTINF:0 group-title="Kenh Phim",===KENH PHIM TRUYEN===
+udp://@225.1.1.0:30120
+#EXTINF:0 group-title="Kenh Phim",AXN-HD
+udp://@225.1.1.237:30120
+#EXTINF:0 group-title="Kenh Phim",Cartoon HD
+udp://@225.1.2.231:30120
+#EXTINF:0 group-title="Kenh Phim",FOX MOVIES HD
+udp://@225.1.2.238:30120
+#EXTINF:0 group-title="Kenh Phim",HBO HD
+udp://@225.1.2.233:30120
+#EXTINF:0 group-title="Kenh Phim",FOX life HD
+udp://@225.1.2.237:30120
+#EXTINF:0 group-title="Kenh Phim",CINEMAX
+udp://@225.1.1.230:30120
+#EXTINF:0 group-title="Kenh Phim",DISNEY CHANNEL
+udp://@225.1.1.232:30120
+#EXTINF:0 group-title="Kenh Phim",DISNEY JUNIOR
+udp://@225.1.1.233:30120
+#EXTINF:0 group-title="Kenh Phim",DIVA
+udp://@225.1.1.199:30120
+#EXTINF:0 group-title="Kenh Phim",V-HD HD
+udp://@225.1.1.188:30120
+#EXTINF:0,DISCOVERY HD
+udp://@225.1.2.222:30120
+#EXTINF:0,FASHION TV-HD
+udp://@225.1.1.234:30120
+#EXTINF:0,NATIONAL HD
+udp://@225.1.2.234:30120
+#EXTINF:0,OUTDOOR HD
+udp://@225.1.2.215:30120
+#EXTINF:0 group-title="Kenh Phim",RED by HBO HD
+udp://@225.1.1.89:30120
+#EXTINF:0 group-title="Kenh Phim",SGEM-HD
+udp://@225.1.1.17:30120
+#EXTINF:0 group-title="Kenh Phim",SGEM-HD-2
+udp://@225.1.1.60:30120
+#EXTINF:0 group-title="Kenh Phim",TOONAMI HD
+udp://@225.1.2.220:30120
+
+#EXTINF:-1 group-title="VTC",===TRUYEN HINH VTC===
+udp://@225.1.1.0:30120
+#EXTINF:-1 group-title="VTC",VTC 1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 group-title="VTC",VTC 2
+udp://@225.1.2.202:30120
+#EXTINF:-1 group-title="VTC",VTC 3 HD
+udp://@225.1.2.251:30120
+#EXTINF:-1 group-title="VTC",VTC 4-yeah1Family HD
+udp://@225.1.2.200:30120
+#EXTINF:-1 group-title="VTC",VTC 5-SOFA TV
+udp://@225.1.2.199:30120
+#EXTINF:-1 group-title="VTC",VTC 6
+udp://@225.1.2.198:30120
+#EXTINF:-1 group-title="VTC",VTC 7-TODAY TV
+udp://@225.1.2.67:30120
+#EXTINF:-1 group-title="VTC",VTC 7-TODAY TV 2
+udp://@225.1.2.197:30120
+#EXTINF:-1 group-title="VTC",VTC 8-VIEWTV
+udp://@225.1.2.196:30120
+#EXTINF:-1 group-title="VTC",VTC 9-LET'S VIET
+udp://@225.1.2.195:30120
+#EXTINF:-1 group-title="VTC",VTC 10-NETVIET
+udp://@225.1.2.194:30120
+#EXTINF:-1 group-title="VTC",VTC 11-KIDTV
+udp://@225.1.2.69:30120
+#EXTINF:-1 group-title="VTC",VTC 12
+udp://@225.1.2.70:30120
+#EXTINF:-1 group-title="VTC",ITV HD
+udp://@225.1.2.250:30120
+#EXTINF:-1 group-title="VTC",VTC 14 HD
+udp://@225.1.2.88:30120
+#EXTINF:-1 group-title="VTC",VTC 16
+udp://@225.1.2.190:30120
+
+
+#EXTINF:-1 group-title="HTV",===TRUYEN HINH HTV===
+udp://@225.1.1.0:30120
+#EXTINF:-1 group-title="HTV",HTV 1
+udp://@225.1.1.180:30120
+#EXTINF:-1 group-title="HTV",HTV 2-HD
+udp://@225.1.1.193:30120
+#EXTINF:-1 group-title="HTV",HTV3
+udp://@225.1.1.178:30120
+#EXTINF:-1 group-title="HTV",HTV 4
+udp://@225.1.1.177:30120
+#EXTINF:-1 group-title="HTV",HTV 7 HD
+udp://@225.1.1.192:30120
+#EXTINF:-1 group-title="HTV",HTV 9-HD
+udp://@225.1.1.190:30120
+#EXTINF:-1 group-title="HTV",HTVC-PHU NU
+udp://@225.1.1.171:30120
+#EXTINF:-1 group-title="HTV",HTVC-GIA DINH
+udp://@225.1.1.170:30120
+#EXTINF:-1 group-title="HTV",HTVC-Thuan Viet
+udp://@225.1.1.85:30120
+#EXTINF:-1 group-title="HTV",HTVC-Phim
+udp://@225.1.1.86:30120
+#EXTINF:-1 group-title="HTV",HTVC-VGSSHOP
+udp://@225.1.1.172:30120
+#EXTINF:-1 group-title="HTV",THUANVIET HD
+udp://@225.1.1.186:30120
+#EXTINF:-1 group-title="HTV",HTVC-FILM HD
+udp://@225.1.1.184:30120
+
+#EXTINF:-1 group-title="HNCab",===TRUYEN HINH HANOICab===
+udp://@225.1.1.0:30120
+
+#EXTINF:-1 group-title="HNCab",HanoiCAB1
+udp://@225.1.1.209:30120
+#EXTINF:-1 group-title="HNCab",HanoiCAB2 You TV
+udp://@225.1.1.207:30120
+#EXTINF:-1 group-title="HNCab",HanoiCAB4
+udp://@225.1.1.206:30120
+#EXTINF:-1 group-title="HNCab",HANOI 1
+udp://@225.1.2.186:30120
+#EXTINF:-1 group-title="HNCab",HANOI 2
+udp://@225.1.2.108:30120
+#EXTINF:-1 group-title="HNCab",VIETNAMNET
+udp://@225.1.1.194:30120
+#EXTINF:-1 group-title="HNCab",ANTV
+udp://@225.1.2.169:30120
+#EXTINF:-1 group-title="HNCab",AN NINH THE GIOI
+udp://@225.1.1.208:30120
+#EXTINF:-1 group-title="HNCab",TTXVN
+udp://@225.1.1.167:30120
+#EXTINF:-1 group-title="HNCab",DU LICH & CUOC SONG
+udp://@225.1.1.166:30120
+#EXTINF:-1 group-title="HNCab",NHAN DAN HD
+udp://@225.1.1.91:30120
+#EXTINF:-1 group-title="HNCab",QUOC HOI HD
+udp://@225.1.2.149:30120
+#EXTINF:-1 group-title="HNCab",FBNC HD
+udp://@225.1.1.181:30120
+#EXTINF:-1 group-title="HNCab",FBNC2 HD
+udp://@225.1.1.182:30120
+#EXTINF:-1 group-title="HNCab",FBNC
+udp://@225.1.1.169:30120
+#EXTINF:-1 group-title="HNCab",QPVN HD
+udp://@225.1.2.217:30120
+#EXTINF:-1 group-title="HNCab",VOV
+udp://@225.1.2.110:30120
+#EXTINF:-1 group-title="HNCab",NCM-BTV10
+udp://@225.1.1.216:30120
+#EXTINF:-1 group-title="HNCab",VIETTEEN
+udp://@225.1.1.218:30120
+#EXTINF:-1 group-title="HNCab",MIEN TAY
+udp://@225.1.1.221:30120
+#EXTINF:-1 group-title="HNCab",PHIMHAYHD
+udp://@225.1.1.222:30120
+#EXTINF:-1 group-title="HNCab",VIETTEEN2
+udp://@225.1.1.223:30120
+#EXTINF:-1 group-title="HNCab",SAM-BTV11
+udp://@225.1.1.224:30120
+#EXTINF:-1 group-title="HNCab",NCM-BTV10
+udp://@225.1.1.225:30120
+
+#EXTINF:0 group-title="World",===TRUYEN HINH THE GIOI===
+udp://@225.1.1.0:30120
+#EXTINF:0 group-title="World",A +
+udp://@225.1.2.21:30120
+#EXTINF:0 group-title="World",AFC-HD
+udp://@225.1.1.198:30120
+#EXTINF:0 group-title="World",ANIMAL PLANET
+udp://@225.1.1.231:30120
+#EXTINF:0 group-title="World",ARIANG
+udp://@225.1.1.201:30120
+#EXTINF:0 group-title="World",CN
+udp://@225.1.1.240:30120
+#EXTINF:0 group-title="World",CN-HD
+udp://@225.1.2.7:30120
+#EXTINF:0 group-title="World",CNN
+udp://@225.1.1.242:30120
+#EXTINF:0 group-title="World",Da Vinci HD
+udp://@225.1.1.197:30120
+#EXTINF:0 group-title="World",DW
+udp://@225.1.1.203:30120
+#EXTINF:0 group-title="World",KBS World
+udp://@225.1.2.91:30120
+#EXTINF:0 group-title="World",MEDIACORP
+udp://@225.1.1.202:30120
+#EXTINF:0 group-title="World",MTV
+udp://@225.1.2.12:30120
+#EXTINF:0 group-title="World",NATIONAL GEOGRAPHIC
+udp://@225.1.1.244:30120
+#EXTINF:0 group-title="World",Nhac Khong Loi
+udp://@225.1.1.8:30120
+#EXTINF:0 group-title="World",Nhac Tong Hop
+udp://@225.1.1.7:30120
+#EXTINF:0 group-title="World",NHK-JAPAN
+udp://@225.1.1.196:30120
+#EXTINF:0 group-title="World",PHIM AN DO
+udp://@225.1.1.245:30120
+#EXTINF:0 group-title="World",STARWORLD
+udp://@225.1.1.204:30120
+#EXTINF:0 group-title="World",TLC
+udp://@225.1.1.236:30120
+#EXTINF:0 group-title="World",TV5
+udp://@225.1.1.200:30120
+#EXTINF:0 group-title="World",V MUSIC
+udp://@225.1.1.243:30120
+
+
+#EXTINF:0 group-title="The Thao",===TRUYEN HINH THE THAO===
+udp://@225.1.1.0:30120
+#EXTINF:0 group-title="The Thao",BONGDA TV HD
+udp://@225.1.2.242:30120
+#EXTINF:0 group-title="The Thao",THETHAO TV HD
+udp://@225.1.2.241:30120
+#EXTINF:0 group-title="The Thao",BONGDA TV
+udp://@225.1.2.55:30120
+#EXTINF:0 group-title="The Thao",THETHAO TV
+udp://@225.1.2.29:30120
+#EXTINF:0 group-title="The Thao",FOX 2 HD
+udp://@225.1.1.108:30120
+#EXTINF:0 group-title="The Thao",FOX SPORT
+udp://@225.1.1.239:30120
+#EXTINF:0 group-title="The Thao",FOX SPORT 2
+udp://@225.1.1.241:30120
+#EXTINF:0 group-title="The Thao",FOXSPORT HD
+udp://@225.1.2.228:30120
+#EXTINF:0 group-title="The Thao",HTV THETHAO
+udp://@225.1.1.165:30120
+
+#EXTINF:0,===TRUYEN HINH DIA PHUONG===
+udp://@225.1.1.0:30120
+#EXTINF:0,ANGIANG TV
+udp://@225.1.2.173:30120
+#EXTINF:0,BACGIANG TV
+udp://@225.1.1.164:30120
+#EXTINF:0,BEN TRE TV
+udp://@225.1.2.78:30120
+#EXTINF:0,Binh Dinh TV
+udp://@225.1.1.115:30120
+#EXTINF:0,BINH PHUOC TV
+udp://@225.1.2.23:30120
+#EXTINF:0,BINH THUAN TV
+#EXTINF:0,Binh Thuan TV
+udp://@225.1.1.124:30120
+#EXTINF:0,BRT TV
+udp://@225.1.2.175:30120
+#EXTINF:0,BTV
+udp://@225.1.1.145:30120
+#EXTINF:0,BTV-DP
+udp://@225.1.1.61:30120
+#EXTINF:0,BTV-SD
+udp://@225.1.1.40:30120
+#EXTINF:0,BTV1
+udp://@225.1.1.150:30120
+#EXTINF:0,BTV2
+udp://@225.1.1.149:30120
+#EXTINF:0,BTV4
+udp://@225.1.1.148:30120
+#EXTINF:0,BTV4-HD
+udp://@225.1.1.29:30120
+#EXTINF:0,BTV4-IP 2
+udp://@225.1.1.57:30120
+#EXTINF:0,Can Tho TV
+udp://@225.1.1.121:30120
+#EXTINF:0,CTV
+udp://@225.1.1.104:30120
+#EXTINF:0,Daklak TV
+udp://@225.1.1.64:30120
+#EXTINF:0,DN1-RTV
+udp://@225.1.1.152:30120
+#EXTINF:0,DN2-RTV
+udp://@225.1.1.151:30120
+#EXTINF:0,DRT1
+udp://@225.1.1.147:30120
+#EXTINF:0,DRT2
+udp://@225.1.1.146:30120
+#EXTINF:0,FPT TV
+udp://@225.1.1.210:30120
+#EXTINF:0,GIALAI TV
+udp://@225.1.2.176:30120
+#EXTINF:0,HA NAM TV
+udp://@225.1.1.63:30120
+#EXTINF:0,HA TINH TV
+udp://@225.1.2.95:30120
+#EXTINF:0,HDTV1
+udp://@225.1.1.158:30120
+#EXTINF:0,HGTV
+udp://@225.1.1.138:30120
+#EXTINF:0,HGV
+udp://@225.1.1.157:30120
+#EXTINF:0,HN 2
+udp://@225.1.1.125:30120
+#EXTINF:0,HOABINH TV
+udp://@225.1.2.168:30120
+#EXTINF:0,HOMTV
+udp://@225.1.2.38:30120
+#EXTINF:0,Hotel
+udp://@225.1.1.123:30120
+#EXTINF:0,HTV-The Thao
+udp://@225.1.1.50:30120
+#EXTINF:0,HUNG YEN TV
+udp://@225.1.2.147:30120
+#EXTINF:0,HUNG YEN
+udp://@225.1.1.118:30120
+#EXTINF:0,KIENGIANG TV
+udp://@225.1.2.124:30120
+#EXTINF:0,KTV
+udp://@225.1.1.133:30120
+#EXTINF:0,LA34
+udp://@225.1.1.162:30120
+#EXTINF:0,LAM DONG TV
+udp://@225.1.2.127:30120
+#EXTINF:0,Lang Son TV
+udp://@225.1.1.160:30120
+#EXTINF:0,Lao Cai TV
+udp://@225.1.1.119:30120
+#EXTINF:0,LTV TV
+udp://@225.1.2.177:30120
+#EXTINF:0,NINH BINH TV
+udp://@225.1.2.136:30120
+#EXTINF:0,NINH THUAN TV
+udp://@225.1.2.135:30120
+#EXTINF:0,NINHBINH TV
+udp://@225.1.2.185:30120
+#EXTINF:0,NTV
+udp://@225.1.1.120:30120
+#EXTINF:0,NTV TV
+udp://@225.1.2.183:30120
+#EXTINF:0,PHU THO TV
+udp://@225.1.2.165:30120
+#EXTINF:0,PTQ
+udp://@225.1.2.174:30120
+#EXTINF:0,PTTH1
+udp://@225.1.2.182:30120
+#EXTINF:0,QPVN_SD
+udp://@225.1.1.226:30120
+#EXTINF:0,QTN1
+udp://@225.1.2.181:30120
+#EXTINF:0,QTN3
+udp://@225.1.2.180:30120
+#EXTINF:0,QUANG BINH TV
+udp://@225.1.2.164:30120
+#EXTINF:0,QUANG NAM TV
+udp://@225.1.2.50:30120
+#EXTINF:0,QUANG TRI TV
+udp://@225.1.1.117:30120
+#EXTINF:0,RTV
+udp://@225.1.1.102:30120
+#EXTINF:0,RTV-sv2
+udp://@225.1.1.105:30120
+#EXTINF:0,SOC TRANG TV
+udp://@225.1.1.159:30120
+#EXTINF:0,Son LA TV
+udp://@225.1.1.98:30120
+#EXTINF:0,Thai Binh TV
+udp://@225.1.1.99:30120
+#EXTINF:0,THAINGUYEN 1
+udp://@225.1.2.179:30120
+#EXTINF:0,THANH HOA TV
+udp://@225.1.2.134:30120
+#EXTINF:0,THBT
+udp://@225.1.1.156:30120
+#EXTINF:0,THDT1
+udp://@225.1.1.163:30120
+#EXTINF:0,THP TV
+udp://@225.1.2.187:30120
+#EXTINF:0,THTPCT
+udp://@225.1.1.132:30120
+#EXTINF:0,THVL1
+udp://@225.1.1.25:30120
+#EXTINF:0,THVL1-HD
+udp://@225.1.1.155:30120
+#EXTINF:0,THVL2
+udp://@225.1.1.109:30120
+#EXTINF:0,THVL2-HD
+udp://@225.1.1.154:30120
+#EXTINF:0,TIENGIANG TV
+udp://@225.1.2.170:30120
+#EXTINF:0,TRA VINH TV
+udp://@225.1.2.172:30120
+#EXTINF:0,TRT
+udp://@225.1.1.161:30120
+#EXTINF:0,TTV TV
+udp://@225.1.2.188:30120
+#EXTINF:0,TTV11
+udp://@225.1.1.130:30120
+#EXTINF:0,TUYEN QUANG TV
+udp://@225.1.2.130:30120
+#EXTINF:0,VGSSHOP
+udp://@225.1.1.67:30120
+#EXTINF:0,VINH PHUC TV
+udp://@225.1.2.99:30120
+#EXTINF:0,YENBAI TV
+udp://@225.1.1.39:30120
+#EXTINF:0,YTV
+udp://@225.1.1.212:30120
+
+#EXTINF:-1,VTV 1
+udp://@225.1.1.250:30120
+#EXTINF:-1,VTV 6
+udp://@225.1.1.246:30120
+#EXTINF:-1,VTC 1
+udp://@225.1.2.203:30120
+#EXTINF:-1,VTC 3
+udp://@225.1.2.201:30120
+#EXTINF:-1,ITV-SD
+udp://@225.1.2.189:30120
+#EXTINF:-1,VTC 14
+udp://@225.1.2.191:30120
+#EXTINF:-1,HTV 2
+udp://@225.1.1.179:30120
+#EXTINF:-1,HTV 7
+udp://@225.1.1.176:30120
+#EXTINF:-1,HTV 9
+udp://@225.1.1.175:30120
+#EXTINF:-1,HTVC-THUAN VIET
+udp://@225.1.1.174:30120
+#EXTINF:-1,HTVC-PHIM
+udp://@225.1.1.173:30120
+#EXTINF:0,Discovery
+udp://@225.1.1.238:30120
+#EXTINF:0,HBO-SD
+udp://@225.1.1.235:30120
+#EXTINF:0,FoxMovies-SD
+udp://@225.1.1.205:30120
+#EXTINF:0,TOONAMI
+udp://@225.1.2.220:30120
